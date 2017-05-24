@@ -3,8 +3,8 @@ Tools for adding, changing, removing in Windows Registry
 
 ## EnableCommonNameFallbackForLocalAnchors (May 24, 2017)
 
-To Enable setting opens Enable-EnableCommonNameFallbackForLocalAnchors.reg.
-To Remove setting opens Disable-EnableCommonNameFallbackForLocalAnchors.reg.
+* To Enable setting opens Enable-EnableCommonNameFallbackForLocalAnchors.reg.
+* To Remove setting opens Disable-EnableCommonNameFallbackForLocalAnchors.reg.
 
 The tool is for using Google Chrome 58 or above version with Symantec product. 
 
